@@ -108,7 +108,7 @@ section {
 }
 .wrap p{
     font-family:"Poppins" ;
-    color: white;
+    color:white;
 }
 .img3{
     width: 250px;
@@ -129,7 +129,7 @@ textarea{
 
 }
 .footer{
-    background-color: rgb(102, 255, 51);
+    background-color:rgb(102, 255, 102);
     padding: 30px 0px;
     
 }
@@ -147,15 +147,28 @@ textarea{
 .ic2{
     margin: 0px 8px;
 }
-body{
-    background-image: url(images/abstract-1780326_960_720.webp);
-}
 .cnt p{
     color:white;
 }
 label{
     color: white;
 }
+
+
+.bgimg1{background-image: url(images/Laptop.jpeg);
+background-size: cover;
+background-repeat: no-repeat;}
+.bgimg3{background-color: white}
+.bgimg4{background-image: url(images/blackbg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bgimg5{background-image: url(images/blackbg2.webp);
+    background-size: cover;
+    background-repeat: no-repeat;}
+button{background-color:  rgb(102, 255, 51)}
+button h3{color: white;}
 
 
 
